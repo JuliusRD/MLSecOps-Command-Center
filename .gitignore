@@ -1,0 +1,17 @@
+# Python Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache (Compiled files)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log Files
+*.log
+
+# OS Generated Junk Files
+.DS_Store
+Thumbs.db
